@@ -34,7 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 5,
     "versionPublish": "4.8.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/lobster1-128x102-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
